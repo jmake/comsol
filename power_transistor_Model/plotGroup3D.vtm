@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" file="plotGroup3D/plotGroup3D_0.vtu"/>
+    <DataSet index="1" file="plotGroup3D/plotGroup3D_1.vtu"/>
+    <DataSet index="2" file="plotGroup3D/plotGroup3D_2.vtu"/>
+    <DataSet index="3" file="plotGroup3D/plotGroup3D_3.vtu"/>
+    <DataSet index="4" file="plotGroup3D/plotGroup3D_4.vtu"/>
+    <DataSet index="5" file="plotGroup3D/plotGroup3D_5.vtu"/>
+    <DataSet index="6" file="plotGroup3D/plotGroup3D_6.vtu"/>
+    <DataSet index="7" file="plotGroup3D/plotGroup3D_7.vtu"/>
+    <DataSet index="8" file="plotGroup3D/plotGroup3D_8.vtu"/>
+    <DataSet index="9" file="plotGroup3D/plotGroup3D_9.vtu"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
